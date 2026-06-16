@@ -60,7 +60,7 @@ export default function Home() {
         <div className="goldGlow"></div>
 
         <div className="imageWrap">
-          <img src="/WhatsApp Image 2026-06-16 at 2.03.08 PM.jpeg.jpg" alt="Samriti Sharma" className="heroImg" />
+          <img src="/PROFILE.jpG" alt="Samriti Sharma" className="heroImg" />
         </div>
 
         <div className="floatingNote">
