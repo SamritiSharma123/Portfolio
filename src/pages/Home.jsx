@@ -60,7 +60,7 @@ export default function Home() {
         <div className="goldGlow"></div>
 
         <div className="imageWrap">
-          <img src="/PROFILE.jpG" alt="Samriti Sharma" className="heroImg" />
+          <img src="/PROFILE.jpg" alt="Samriti Sharma" className="heroImg" />
         </div>
 
         <div className="floatingNote">
